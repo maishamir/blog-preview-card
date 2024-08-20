@@ -1,2 +1,3 @@
 ### Made using TailwindCSS and React
-Live URl: 
+Live URl:
+Minor change to readme 
