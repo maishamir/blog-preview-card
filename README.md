@@ -1,3 +1,2 @@
 ### Made using TailwindCSS and React
-Live URl:
-Minor change to readme 
+Live URl: https://maishamir.github.io/blog-preview-card/
